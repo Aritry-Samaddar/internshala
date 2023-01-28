@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jukinji</string>
+    <string name="Shared_Preferences">Jukinji Preferences</string>
+    <string name="shared_preferences">Jukinji Second Preferences</string>
+</resources>
